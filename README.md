@@ -1,5 +1,9 @@
 # [Unity]Coronavirus2020
  Мини симулятор по коронавирусу написанный на Unity   
+ ![Иллюстрация к проекту](https://github.com/prethink/Coronavirus2020/blob/main/demo.png)   
+ 
+ 
+ 
  На локации есть 3 объекта   
  - Клетка   
  - Коронавирус   
